@@ -1,4 +1,4 @@
-# sale_app
+# sales_app
 
 A new Flutter project.
 
